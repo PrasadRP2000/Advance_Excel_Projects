@@ -1,2 +1,2 @@
-# Advance_Excel_Projects
-This repository contains a collection of advanced Excel projects. The projects contain data analysis and visualization. Each project includes documentation to help understand the logic and techniques implemented.
+# ArchieStore_Analysis
+This repository contains a comprehensive Excel-based project focusing on data analysis and visualization for the Archie Store. The project uses dummy dataset of sales and inventory to derive actionable insights and includes an interactive dashboard.
